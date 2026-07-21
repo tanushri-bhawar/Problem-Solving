@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
