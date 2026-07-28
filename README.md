@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 ## Simulation
 |  |
 | ------- |
