@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
