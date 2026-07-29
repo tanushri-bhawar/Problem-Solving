@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 ## Recursion
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 ## Simulation
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 ## Dynamic Programming
 |  |
 | ------- |
