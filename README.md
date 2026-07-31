@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 ## Dynamic Programming
 |  |
