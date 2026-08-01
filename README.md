@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
