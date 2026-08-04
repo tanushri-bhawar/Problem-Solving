@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0541-reverse-string-ii) |
+| [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 ## Dynamic Programming
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
