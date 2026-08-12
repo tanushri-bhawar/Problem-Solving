@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 ## Database
