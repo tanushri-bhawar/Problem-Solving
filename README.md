@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1089-duplicate-zeros) |
 | [1470-shuffle-the-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0925-long-pressed-name) |
+| [1089-duplicate-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
