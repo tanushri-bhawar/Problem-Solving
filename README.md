@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0925-long-pressed-name) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 ## Dynamic Programming
 |  |
