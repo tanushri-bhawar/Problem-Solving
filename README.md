@@ -198,14 +198,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
