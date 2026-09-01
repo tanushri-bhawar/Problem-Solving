@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
