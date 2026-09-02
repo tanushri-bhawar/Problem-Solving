@@ -206,18 +206,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
