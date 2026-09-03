@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
