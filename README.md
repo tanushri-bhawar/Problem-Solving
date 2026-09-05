@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0696-count-binary-substrings) |
+| [0771-jewels-and-stones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0925-long-pressed-name) |
