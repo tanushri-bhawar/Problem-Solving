@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1089-duplicate-zeros) |
 | [1470-shuffle-the-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1470-shuffle-the-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Quicksort
 |  |
 | ------- |
