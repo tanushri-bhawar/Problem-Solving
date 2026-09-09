@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
@@ -295,8 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
