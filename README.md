@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
+| [0414-third-maximum-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0905-sort-array-by-parity) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
