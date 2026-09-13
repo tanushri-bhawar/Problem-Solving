@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0147-insertion-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1089-duplicate-zeros) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## String
