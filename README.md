@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
