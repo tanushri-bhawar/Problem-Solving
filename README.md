@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0392-is-subsequence) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
