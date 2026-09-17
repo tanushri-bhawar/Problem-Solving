@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0162-find-peak-element) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
