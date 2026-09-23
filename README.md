@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1002-find-common-characters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2119-a-number-after-a-double-reversal) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bit Manipulation
