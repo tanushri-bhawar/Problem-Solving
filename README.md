@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2129-capitalize-the-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2129-capitalize-the-title) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
