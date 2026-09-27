@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
