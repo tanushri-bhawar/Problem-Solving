@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3945-digit-frequency-score](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Bit Manipulation
 |  |
 | ------- |
