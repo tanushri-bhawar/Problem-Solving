@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
