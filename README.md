@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3925-concatenate-array-with-reverse) |
