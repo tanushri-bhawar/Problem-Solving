@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3765-complete-prime-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3765-complete-prime-number) |
 ## Number Theory
