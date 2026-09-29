@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
+| [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0441-arranging-coins) |
+| [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
