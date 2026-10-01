@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0441-arranging-coins) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
