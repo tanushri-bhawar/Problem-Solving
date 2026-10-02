@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2129-capitalize-the-title) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3110-score-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3110-score-of-a-string) |
