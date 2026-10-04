@@ -15,14 +15,16 @@ public:
             ans.push_back(tmp%10);
             k=k/10;
         }
-        while(i>=0)
+        if(i>=0)
+        {while(i>=0)
         {
             int tmp=num[i]+carry;
             ans.push_back(tmp%10);
             carry=tmp/10;
             i--;
-        }
-        while(k>0) 
+        }}
+        if(k>0)
+        {while(k>0) 
         {
             int tmp=(k%10)+carry;
 
@@ -30,7 +32,7 @@ public:
             carry=tmp/10;
 
             k/=10;
-        }
+        }}
 
         if(carry) ans.push_back(carry);
         reverse(ans.begin(),ans.end());
