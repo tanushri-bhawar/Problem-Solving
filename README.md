@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0069-sqrtx) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0168-excel-sheet-column-title) |
