@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Counting
