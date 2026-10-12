@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3280-convert-date-to-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
 | [2942-find-words-containing-character](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3110-score-of-a-string) |
+| [3280-convert-date-to-binary](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3760-maximum-substrings-with-distinct-start) |
