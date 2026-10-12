@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 ## Memoization
 |  |
