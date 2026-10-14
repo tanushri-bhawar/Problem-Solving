@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0477-total-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0697-degree-of-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0441-arranging-coins) |
+| [0477-total-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0509-fibonacci-number) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0477-total-hamming-distance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
