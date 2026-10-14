@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0461-hamming-distance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
