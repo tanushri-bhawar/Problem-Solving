@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 ## String
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2129-capitalize-the-title) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Counting
