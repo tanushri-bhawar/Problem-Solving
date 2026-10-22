@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1816-truncate-sentence) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
