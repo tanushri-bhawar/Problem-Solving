@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
+| [1528-shuffle-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
