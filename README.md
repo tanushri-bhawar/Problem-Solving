@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0748-shortest-completing-word) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2310-sum-of-numbers-with-units-digit-k) |
