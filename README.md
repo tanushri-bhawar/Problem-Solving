@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
