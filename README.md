@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0697-degree-of-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0412-fizz-buzz) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0383-ransom-note) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
