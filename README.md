@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2418-sort-the-people](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2506-count-pairs-of-similar-strings) |
 | [2942-find-words-containing-character](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3110-score-of-a-string) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2418-sort-the-people](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/2418-sort-the-people) |
 ## Quicksort
 |  |
 | ------- |
