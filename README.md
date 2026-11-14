@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3765-complete-prime-number](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3765-complete-prime-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/tanushri-bhawar/Problem-Solving/tree/master/3945-digit-frequency-score) |
